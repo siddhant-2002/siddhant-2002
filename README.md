@@ -9,11 +9,11 @@
 
 
 
-- 🌱 I’m currently learning **Node | Express | MongoDB**
-- 👨‍💻 All of my projects are available at [siddhant-portfolio](http://siddhant-deshmukh.netlify.app/)
-- 💬 Ask me about **web development | DSA**
-- 📫 How to reach me: **siddeshmukh711@gmail.com**
-- 📄 Know about my experiences [siddhant-resume](https://drive.google.com/file/d/12zRlX6F9JSAgOOZGVzY7Ntm8cdX6BooI/view?usp=drive_link)
+- 🌱 I’m currently learning : **Node | Express | MongoDB**
+- 👨‍💻 All of my projects are available at : [siddhant-portfolio](http://siddhant-deshmukh.netlify.app/)
+- 💬 Ask me about : **web development | DSA**
+- 📫 How to reach me : **siddeshmukh711@gmail.com**
+- 📄 Know about my experiences : [siddhant-resume](https://drive.google.com/file/d/12zRlX6F9JSAgOOZGVzY7Ntm8cdX6BooI/view?usp=drive_link)
 
     
   <br>
