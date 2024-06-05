@@ -41,6 +41,6 @@
 
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=siddhant-2002&show_icons=true&locale=en" alt="siddhant-2002" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhant-2002&" alt="siddhant-2002" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=siddhant-2002&show_icons=true&locale=en" alt="siddhant-2002" width="48%" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhant-2002&" alt="siddhant-2002" width="48%" />
 </p>
