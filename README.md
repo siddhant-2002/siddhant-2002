@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Node | Express | MongoDB**
 
-- 👨‍💻 All of my projects are available at [http://siddhant-deshmukh.netlify.app/](http://siddhant-deshmukh.netlify.app/)
+- 👨‍💻 All of my projects are available at [siddhant-portfolio](http://siddhant-deshmukh.netlify.app/)
 
 - 💬 Ask me about **web developement | DSA**
 
 - 📫 How to reach me **siddeshmukh711@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12zRlX6F9JSAgOOZGVzY7Ntm8cdX6BooI/view?usp=drive_link](https://drive.google.com/file/d/12zRlX6F9JSAgOOZGVzY7Ntm8cdX6BooI/view?usp=drive_link)
+- 📄 Know about my experiences [siddhant-resume](https://drive.google.com/file/d/12zRlX6F9JSAgOOZGVzY7Ntm8cdX6BooI/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
