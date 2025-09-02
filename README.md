@@ -9,7 +9,7 @@
 
 
 
-- 🌱 I’m currently learning : **n8n Automation | Next js **
+- 🌱 I’m currently learning : **n8n Automation | Next js**
 - 👨‍💻 All of my projects are available at : [siddhant-portfolio](http://siddhant-deshmukh.netlify.app/)
 - 💬 Ask me about : **web development | DSA**
 - 📫 How to reach me : **siddeshmukh711@gmail.com**
